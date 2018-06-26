@@ -13,7 +13,7 @@ function johnLennonFacts(facts)
 {
   var count = facts.length
   var master = new Array()
-  
+
   while (count != 0)
   {
     master.push(facts[i] + "!!!")
